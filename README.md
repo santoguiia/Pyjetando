@@ -27,27 +27,20 @@ Os módulos desse curso são divididos da forma que você faça ao menos 1 por d
 <hr></hr>
 
 ## Sumário
-[MÓDULO 0 - INTRODUÇÃO AO MUNDO DA PROGRAMAÇÃO](MÓDULO%200)
-
+[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA PROGRAMAÇÃO](MÓDULO%200)
 - [**1.1** INTRODUÇÃO A PROGRAMAÇÃO](MÓDULO%200/INTRODUÇÃO%20A%20PROGRAMAÇÃO)
--	**1.2** Usos práticos e motivações
+-	**1.2** USOS DA PROGRAMAÇÃO E MOTIVAÇÃO
+- **1.3** BAIXANDO E INSTALANDO PYTHON
+  - **1.3.1** CONFIGURANDO ÁREA DE TRABALHO
+-	**1.4** FUNDAMENTOS DA PROGRAMAÇÃO
 
 
-<br>__MÓDULO 2 - PROGRAMANDO COM PYTHON__
-- **2.1** Baixando e instalando Python
-  - **2.1.1** Configurando área de trabalho
-- **2.2** Códigos de motivação
--	Fundamentos da programação em Python e suas bibliotecas<br><br>
-
-
-__MÓDULO 3 - GITHUB__
-- **3.1** Conhecendo a plataforma
-- **3.2** Criação de repositório no GitHub
-  - **3.2.1** Configurando Repositório
-  - **3.2.2** Utilizando ferramenta GitHub Desktop
-- **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br><br>
-<hr> </hr>
-
+__MÓDULO 2 - GITHUB__
+- **2.1** Conhecendo a plataforma
+- **2.2** Criação de repositório no GitHub
+  - **2.2.1** Configurando Repositório
+  - **2.2.2** Utilizando ferramenta GitHub Desktop
+- **2.3**	Ferramentas de desenvolvimento, Git e GitHub<br><br>
 
 
 > CURSO ESTÁ EM DESENVOLVIMENTO
