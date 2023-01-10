@@ -27,10 +27,9 @@ Os módulos desse curso são divididos da forma que você faça ao menos 1 por d
 <hr></hr>
 
 ## Sumário
-### MÓDULOS GRATUITOS
-[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](MÓDULO%200/INTRODUÇÃO%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
+[MÓDULO 0 - INTRODUÇÃO AO MUNDO DA PROGRAMAÇÃO](MÓDULO%200)
 
-- **1.1** [Introdução à história da Robótica e da Inteligência Artificial](MÓDULO%200/Introdução%20à%20história%20da%20Robótica%20e%20da%20Inteligência%20Artificial.md)
+- [**1.1** INTRODUÇÃO A PROGRAMAÇÃO](MÓDULO%200/INTRODUÇÃO%20A%20PROGRAMAÇÃO)
 -	**1.2** Usos práticos e motivações
 
 
