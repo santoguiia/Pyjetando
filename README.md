@@ -1,6 +1,6 @@
 <hr></hr>
 
-![um curso de Python com pequenos projetos diários](https://user-images.githubusercontent.com/44483048/211658057-f8331a7f-b1ab-4fa8-8cde-f45d17a76c27.jpg)
+![Pyjetando](https://user-images.githubusercontent.com/44483048/211707476-4f27f5f8-bc37-40ef-be9f-934c2e3fb359.jpg)
 
 <hr></hr>
 
