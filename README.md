@@ -22,7 +22,7 @@ Este curso ensinará Python de maneira inteligente sendo que cada módulo deve s
 Aqui nesse curso gratuito você vai aprender tudo sobre Python de uma forma **otimizada** ! <br>
 Caso você já tenha uma boa experiência em Python e queira apenas treinar a sua programação, recomendo fortemente que utilize o [app-ideias](https://github.com/florinpop17/app-ideas)<br>
 
-Os módulos desse curso são divididos da forma que você faça ao menos 1 por dia, os modulos estão estruturados da forma que você não esqueça dos tópicos aprendidos anteriormente, utilizando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento)
+Os módulos desse curso são divididos da forma que você faça ao menos um tópico por dia, os modulos estão estruturados da forma que você não esqueça dos tópicos aprendidos anteriormente, pois utilizando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento) para relembrar dos assuntos passados.
 
 <hr></hr>
 
@@ -31,8 +31,7 @@ Os módulos desse curso são divididos da forma que você faça ao menos 1 por d
 - [**1.1** INTRODUÇÃO A PROGRAMAÇÃO](MÓDULO%200/INTRODUÇÃO%20A%20PROGRAMAÇÃO)
 -	**1.2** USOS DA PROGRAMAÇÃO E MOTIVAÇÃO
 - **1.3** BAIXANDO E INSTALANDO PYTHON
-  - **1.3.1** CONFIGURANDO ÁREA DE TRABALHO
--	**1.4** FUNDAMENTOS DA PROGRAMAÇÃO
+  - **1.3.1** CONFIGURANDO SEU AMBIENTE DE PROGRAMAÇÃO
 
 
 __MÓDULO 2 - GITHUB__
