@@ -23,10 +23,10 @@ Estamos ansiosos para embarcar nesta jornada de aprendizado com você! Com dedic
 
 ## Objetivos
 
-Aqui nesse curso gratuito você vai aprender tudo sobre Python de uma forma **otimizada** ! <br>
-Caso você já tenha uma boa experiência em Python e queira apenas treinar a sua programação, recomendo fortemente que utilize o [app-ideias](https://github.com/florinpop17/app-ideas)<br>
+Este curso de programação em Python é oferecido gratuitamente e visa fornecer uma abordagem otimizada para o aprendizado da linguagem. Para aqueles que já possuem uma boa experiência em Python e desejam aprimorar suas habilidades de programação, recomendamos o uso do aplicativo [app-ideias](https://github.com/florinpop17/app-ideas) como complemento ao curso.<br>
 
-Os módulos desse curso são divididos da forma que você faça ao menos um tópico por dia, os modulos estão estruturados da forma que você não esqueça dos tópicos aprendidos anteriormente, pois utilizando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento) para relembrar dos assuntos passados.
+Os módulos deste curso estão estruturados de forma a permitir que o estudante aborde pelo menos um tópico por dia. A estruturação dos módulos foi planejada de tal forma que seja possível evitar a perda de conhecimentos adquiridos anteriormente, aplicando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento) para relembrar os tópicos passados.
+
 
 <hr></hr>
 
