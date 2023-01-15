@@ -5,9 +5,13 @@
 <hr></hr>
 
 ## Ementa
-### Olá, seja bem-vindo ao Pyjetando! Um curso de Python com pequenos projetos diários!
+Seja bem-vindo ao nosso curso de programação em Python com pequenos projetos diários! Python é uma linguagem de programação de alto nível, de fácil aprendizado e muito versátil. Ela é usada em uma variedade de aplicações, desde científicas até de negócios e entretenimento.
 
-Este curso ensinará Python de maneira inteligente sendo que cada módulo deve ser realizado uma vez por dia, o seu aprendizado sera otimizado ao máximo!
+Neste curso, você aprenderá os fundamentos da programação em Python, incluindo como escrever e executar códigos, trabalhar com variáveis, estruturas de controle de fluxo e funções. Também abordaremos tópicos avançados, como a manipulação de arquivos, trabalhando com bibliotecas e a criação de aplicativos.
+
+Não importa se você é iniciante ou já tem alguma experiência com programação, este curso é projetado para ajudá-lo a se familiarizar com a linguagem Python e aplicar seus conhecimentos em projetos reais.
+
+Estamos ansiosos para embarcar nesta jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
 
 #### Você aprendera coisas como:
 - Aproveitar o poder do Python para resolver tarefas.
