@@ -27,6 +27,11 @@ Este curso de programação em Python é oferecido gratuitamente e visa fornecer
 
 Os módulos deste curso estão estruturados de forma a permitir que o estudante aborde pelo menos um tópico por dia. A estruturação dos módulos foi planejada de tal forma que seja possível evitar a perda de conhecimentos adquiridos anteriormente, aplicando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento) para relembrar os tópicos passados.
 
+<hr></hr>
+
+## Requisitos
+* Noções básicas em lógica de programação
+* [HOW-GitHub: Como usar o GitHub de forma descomplicada](https://github.com/SantoGuii/HOW-GitHub)
 
 <hr></hr>
 
