@@ -38,12 +38,4 @@ Os módulos deste curso estão estruturados de forma a permitir que o estudante 
   - **1.3.1** CONFIGURANDO SEU AMBIENTE DE PROGRAMAÇÃO
 
 
-__MÓDULO 2 - GITHUB__
-- **2.1** Conhecendo a plataforma
-- **2.2** Criação de repositório no GitHub
-  - **2.2.1** Configurando Repositório
-  - **2.2.2** Utilizando ferramenta GitHub Desktop
-- **2.3**	Ferramentas de desenvolvimento, Git e GitHub<br><br>
-
-
 > CURSO ESTÁ EM DESENVOLVIMENTO
