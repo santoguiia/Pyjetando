@@ -44,3 +44,4 @@ Os módulos deste curso estão estruturados de forma a permitir que o estudante 
 
 
 > CURSO ESTÁ EM DESENVOLVIMENTO
+> Acompanhe a versão BETA clicando [AQUI](https://santogui.notion.site/Pyjetando-9519505678c44b189bc4bdc3c9b3240c)
