@@ -4,6 +4,8 @@
 
 <hr></hr>
 
+[O CURSO ESTÁ EM DESENVOLVIMENTO, MAS VOCÊ PODE ACESSAR A VERSÃO EBOOK DELE POR AQUI 🚀](https://codigoinfinito.netlify.app/)
+
 ## Ementa
 Seja bem-vindo ao nosso curso de programação em Python com pequenos projetos diários! Python é uma linguagem de programação de alto nível, de fácil aprendizado e muito versátil. Ela é usada em uma variedade de aplicações, desde científicas até de negócios e entretenimento.
 
