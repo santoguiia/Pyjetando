@@ -4,8 +4,6 @@
 
 <hr></hr>
 
-[O CURSO ESTÁ EM DESENVOLVIMENTO, MAS VOCÊ PODE ACESSAR A VERSÃO EBOOK DELE POR AQUI 🚀](https://codigoinfinito.netlify.app/)
-
 ## Ementa
 Seja bem-vindo ao nosso curso de programação em Python com pequenos projetos diários! Python é uma linguagem de programação de alto nível, de fácil aprendizado e muito versátil. Ela é usada em uma variedade de aplicações, desde científicas até de negócios e entretenimento.
 
@@ -35,15 +33,5 @@ Os módulos deste curso estão estruturados de forma a permitir que o estudante 
 * Noções básicas em lógica de programação
 * [Como usar o GitHub de forma descomplicada](https://github.com/SantoGuii/HOW-GitHub)
 
-<hr></hr>
 
-## Sumário
-[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA PROGRAMAÇÃO](MÓDULO%201)
-- [**1.1** INTRODUÇÃO A PROGRAMAÇÃO](MÓDULO%201/INTRODUÇÃO%20A%20PROGRAMAÇÃO.md)
--	**1.2** USOS DA PROGRAMAÇÃO E MOTIVAÇÃO
-- **1.3** BAIXANDO E INSTALANDO PYTHON
-  - **1.3.1** CONFIGURANDO SEU AMBIENTE DE PROGRAMAÇÃO
-
-
-> CURSO ESTÁ EM DESENVOLVIMENTO
-> Acompanhe a versão BETA clicando [AQUI](https://santogui.notion.site/Pyjetando-9519505678c44b189bc4bdc3c9b3240c)
+<br>> [O CURSO ESTÁ EM DESENVOLVIMENTO, MAS VOCÊ PODE ACESSAR A VERSÃO EBOOK DELE POR AQUI 🚀](https://codigoinfinito.netlify.app/)
