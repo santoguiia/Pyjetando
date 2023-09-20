@@ -33,7 +33,7 @@ Os módulos deste curso estão estruturados de forma a permitir que o estudante 
 
 ## Requisitos
 * Noções básicas em lógica de programação
-* [HOW-GitHub: Como usar o GitHub de forma descomplicada](https://github.com/SantoGuii/HOW-GitHub)
+* [Como usar o GitHub de forma descomplicada](https://github.com/SantoGuii/HOW-GitHub)
 
 <hr></hr>
 
