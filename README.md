@@ -4,34 +4,42 @@
 
 <hr></hr>
 
-## Ementa
-Seja bem-vindo ao nosso curso de programação em Python com pequenos projetos diários! Python é uma linguagem de programação de alto nível, de fácil aprendizado e muito versátil. Ela é usada em uma variedade de aplicações, desde científicas até de negócios e entretenimento.
+# Curso de Programação em Python com Projetos Diários
 
-Neste curso, você aprenderá os fundamentos da programação em Python, incluindo como escrever e executar códigos, trabalhar com variáveis, estruturas de controle de fluxo e funções. Também abordaremos tópicos avançados, como a manipulação de arquivos, trabalhando com bibliotecas e a criação de aplicativos.
+Bem-vindo ao nosso curso de programação em Python! Este curso é projetado para proporcionar uma experiência de aprendizado prática, enfocando pequenos projetos diários para consolidar seus conhecimentos em Python. Python é uma linguagem de programação de alto nível, versátil e amplamente utilizada em diversas aplicações, desde científicas até de negócios e entretenimento.
 
-Não importa se você é iniciante ou já tem alguma experiência com programação, este curso é projetado para ajudá-lo a se familiarizar com a linguagem Python e aplicar seus conhecimentos em projetos reais.
+## Objetivo do Curso
 
-Estamos ansiosos para embarcar nesta jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
+O curso tem como objetivo ensinar os fundamentos da programação em Python, abrangendo:
 
-#### Você aprendera coisas como:
+- Escrita e execução de códigos Python.
+- Trabalho com variáveis, estruturas de controle de fluxo e funções.
+- Tópicos avançados, como manipulação de arquivos, uso de bibliotecas e criação de aplicativos.
+
+Não importa se você é iniciante ou já possui alguma experiência em programação. Este curso é estruturado para ajudá-lo a se familiarizar com a linguagem Python e aplicar seus conhecimentos em projetos práticos do dia a dia.
+
+## Conteúdo do Curso
+
+Ao longo do curso, você aprenderá a:
+
 - Aproveitar o poder do Python para resolver tarefas.
-- Usar o Python para seus próprios problemas de trabalho ou projetos pessoais.
-- Criar um portfólio de projetos baseados em Python que poderá compartilhar.
-- Construir uma compreensão completa do Python desde o início!
+- Utilizar o Python para resolver problemas de trabalho ou projetos pessoais.
+- Criar um portfólio de projetos baseados em Python para compartilhar.
+- Construir uma compreensão completa do Python desde o início.
 
-<hr></hr>
+## Metodologia e Estrutura do Curso
 
-## Objetivos
-
-Este curso de programação em Python é oferecido gratuitamente e visa fornecer uma abordagem otimizada para o aprendizado da linguagem. Para aqueles que já possuem uma boa experiência em Python e desejam aprimorar suas habilidades de programação, recomendamos o uso do aplicativo [app-ideias](https://github.com/florinpop17/app-ideas) como complemento ao curso.<br>
-
-Os módulos deste curso estão estruturados de forma a permitir que o estudante aborde pelo menos um tópico por dia. A estruturação dos módulos foi planejada de tal forma que seja possível evitar a perda de conhecimentos adquiridos anteriormente, aplicando a [curva do esquecimento](https://pt.wikipedia.org/wiki/Curva_do_esquecimento) para relembrar os tópicos passados.
-
-<hr></hr>
+Os módulos do curso são estruturados de forma otimizada, permitindo que você aborde pelo menos um tópico por dia. A organização dos módulos foi cuidadosamente planejada para evitar a perda de conhecimentos adquiridos anteriormente, aplicando a curva do esquecimento para relembrar os tópicos passados.
 
 ## Requisitos
-* Noções básicas em lógica de programação
-* [Como usar o GitHub de forma descomplicada](https://github.com/SantoGuii/HOW-GitHub)
 
+Antes de iniciar o curso, é recomendado ter:
 
-<br>> [O CURSO ESTÁ EM DESENVOLVIMENTO, MAS VOCÊ PODE ACESSAR A VERSÃO EBOOK DELE POR AQUI 🚀](https://codigoinfinito.netlify.app/)
+- Noções básicas em lógica de programação.
+- Conhecimentos sobre o uso do GitHub de forma descomplicada.
+
+## Aviso Importante
+
+Este curso está em desenvolvimento, mas você pode acessar a versão eBook dele [aqui](link-ebook). Estamos ansiosos para embarcar nessa jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
+
+🚀 **Boa jornada de aprendizado!** 🚀
