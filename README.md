@@ -40,6 +40,6 @@ Antes de iniciar o curso, é recomendado ter:
 
 ## Aviso Importante
 
-Este curso está em desenvolvimento, mas você pode acessar a versão eBook dele [aqui](link-ebook). Estamos ansiosos para embarcar nessa jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
+Este curso está em desenvolvimento, mas você pode acessar a versão eBook dele [aqui](https://drive.google.com/u/0/uc?id=11VhXA3WYyVfSLJhGpyRurdpdl-8P2fE9&export=download). Estamos ansiosos para embarcar nessa jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
 
 🚀 **Boa jornada de aprendizado!** 🚀
