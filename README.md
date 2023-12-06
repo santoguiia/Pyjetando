@@ -2,6 +2,8 @@
 
 ![Pyjetando](https://user-images.githubusercontent.com/44483048/211707476-4f27f5f8-bc37-40ef-be9f-934c2e3fb359.jpg)
 
+## [🔗 Acesse o curso agora e dê o próximo passo em direção a sua carreira de sucesso](https://santoguiia.notion.site/Pyjetando-9519505678c44b189bc4bdc3c9b3240c?pvs=4)
+
 <hr></hr>
 
 # Curso de Programação em Python com Projetos Diários
@@ -38,8 +40,11 @@ Antes de iniciar o curso, é recomendado ter:
 - Noções básicas em lógica de programação.
 - Conhecimentos sobre o uso do GitHub de forma descomplicada.
 
+
 ## Aviso Importante
 
 Este curso está em desenvolvimento, mas você pode acessar a versão eBook dele [aqui](https://drive.google.com/u/0/uc?id=11VhXA3WYyVfSLJhGpyRurdpdl-8P2fE9&export=download). Estamos ansiosos para embarcar nessa jornada de aprendizado com você! Com dedicação e trabalho duro, você estará escrevendo seus próprios programas em Python em algum momento.
 
 🚀 **Boa jornada de aprendizado!** 🚀
+
+
